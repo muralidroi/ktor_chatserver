@@ -1,6 +1,6 @@
-package com.example.plugins
+package com.murali.plugins
 
-import com.example.session.ChatSession
+import com.murali.session.ChatSession
 import io.ktor.server.sessions.*
 import io.ktor.server.application.*
 import io.ktor.util.*

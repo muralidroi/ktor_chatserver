@@ -1,8 +1,8 @@
-package com.example.di
+package com.murali.di
 
-import com.example.Room.RoomController
-import com.example.data.MessageDataSource
-import com.example.data.MessageDataSourceImpl
+import com.murali.Room.RoomController
+import com.murali.data.MessageDataSource
+import com.murali.data.MessageDataSourceImpl
 import org.koin.dsl.module
 import org.litote.kmongo.coroutine.coroutine
 

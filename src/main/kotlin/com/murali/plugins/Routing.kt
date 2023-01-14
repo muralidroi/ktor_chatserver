@@ -1,8 +1,8 @@
-package com.example.plugins
+package com.murali.plugins
 
-import com.example.Room.RoomController
-import com.example.route.chatSocket
-import com.example.route.getAllMessages
+import com.murali.Room.RoomController
+import com.murali.route.chatSocket
+import com.murali.route.getAllMessages
 import io.ktor.server.application.*
 import io.ktor.server.routing.*
 import org.koin.ktor.ext.inject

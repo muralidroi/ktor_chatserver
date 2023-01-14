@@ -1,7 +1,7 @@
-package com.example.Room
+package com.murali.Room
 
-import com.example.data.MessageDataSource
-import com.example.data.model.Message
+import com.murali.data.MessageDataSource
+import com.murali.data.model.Message
 import io.ktor.websocket.*
 import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.Json

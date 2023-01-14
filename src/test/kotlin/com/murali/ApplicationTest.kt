@@ -1,11 +1,11 @@
-package com.example
+package com.murali
 
 import io.ktor.http.*
 import io.ktor.client.request.*
 import io.ktor.client.statement.*
 import kotlin.test.*
 import io.ktor.server.testing.*
-import com.example.plugins.*
+import com.murali.plugins.*
 
 class ApplicationTest {
     @Test

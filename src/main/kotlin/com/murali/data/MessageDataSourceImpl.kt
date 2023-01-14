@@ -1,6 +1,6 @@
-package com.example.data
+package com.murali.data
 
-import com.example.data.model.Message
+import com.murali.data.model.Message
 import org.litote.kmongo.coroutine.CoroutineDatabase
 
 class MessageDataSourceImpl(

@@ -1,9 +1,8 @@
-package com.example.route
+package com.murali.route
 
-import com.example.Room.MemberAlreadyExistException
-import com.example.Room.RoomController
-import com.example.data.model.Message
-import com.example.session.ChatSession
+import com.murali.Room.MemberAlreadyExistException
+import com.murali.Room.RoomController
+import com.murali.session.ChatSession
 import io.ktor.http.*
 import io.ktor.server.application.*
 import io.ktor.server.response.*

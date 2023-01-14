@@ -1,10 +1,10 @@
-package com.example
+package com.murali
 
-import com.example.di.mainModule
+import com.murali.di.mainModule
 import io.ktor.server.application.*
 import io.ktor.server.engine.*
 import io.ktor.server.netty.*
-import com.example.plugins.*
+import com.murali.plugins.*
 import org.koin.core.context.startKoin
 
 

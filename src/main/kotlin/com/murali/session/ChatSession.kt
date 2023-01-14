@@ -1,4 +1,4 @@
-package com.example.session
+package com.murali.session
 
 
 data class ChatSession (
